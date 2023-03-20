@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Persistence.deps.json
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Persistence.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Persistence.pdb
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Common.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Services.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Services.pdb
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\bin\Debug\netcoreapp3.1\PruebaTecnica.Common.pdb
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.AssemblyInfo.cs
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.csproj.CopyComplete
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Persistence\obj\Debug\netcoreapp3.1\PruebaTecnica.Persistence.pdb

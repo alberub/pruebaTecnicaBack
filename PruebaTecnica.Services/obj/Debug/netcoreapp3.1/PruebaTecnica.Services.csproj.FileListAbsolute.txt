@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\bin\Debug\netcoreapp3.1\PruebaTecnica.Services.deps.json
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\bin\Debug\netcoreapp3.1\PruebaTecnica.Services.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\bin\Debug\netcoreapp3.1\PruebaTecnica.Services.pdb
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\bin\Debug\netcoreapp3.1\PruebaTecnica.Common.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\bin\Debug\netcoreapp3.1\PruebaTecnica.Common.pdb
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.csproj.CopyComplete
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.dll
+C:\Users\hp\Desktop\PruebaTecnica.WebApi\PruebaTecnica.Services\obj\Debug\netcoreapp3.1\PruebaTecnica.Services.pdb

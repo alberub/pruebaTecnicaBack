@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JjKT33WHUcK8gruVVHBuyJduo1IvE2xNVFU6qpdkRjQ+xrCbvOo55va3wmwI+9kyj68cgDWoGrJe8vJzO4RaGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\PruebaTecnica.WebApi\\PruebaTecnica.Services\\PruebaTecnica.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
